@@ -1,6 +1,6 @@
-from klickbrick import __version__
+from klickbrick_kish import __version__
 import unittest
-from klickbrick import klickbrick
+from klickbrick_kish import klickbrick
 
 class TestKlickbrick(unittest.TestCase):
 
